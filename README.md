@@ -1,4 +1,4 @@
-# App Mensagens
+# App Mensagens em Flutter
 
 Um projeto basico de como trabalhar com manipulação de listas, foi utilizado uma API local para realizar os testes.
 
