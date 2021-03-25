@@ -1,6 +1,6 @@
-# mensagens
+# App Mensagens
 
-A new Flutter project.
+Um projeto basico de como manipular listas
 
 ## Getting Started
 
